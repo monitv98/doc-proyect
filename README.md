@@ -1,6 +1,6 @@
 # Proyecto Mitca : Documentación
 ![Logo Mitca](img/logo.png)
-
+### Alumna: Mónica Ilenia Tardón Vera
 ## Índice
 * [1. Introducción](#idIntroduccion)
 
