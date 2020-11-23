@@ -32,7 +32,7 @@
 
 ## 1. Introducción<a name="idIntroduccion"></a>
 
-La idea surge de la necesidad de que en la empresa que se me ha propuesto, en las áreas de maquetación y gestión necesitaban una herramienta para poder realizar páginas web rápidas.
+La idea surge de la necesidad de que en las áreas de maquetación y gestión necesitaba una herramienta para poder realizar páginas web rápidas.
 Por ello se me ha propuesto realizar un CMS(Content Management System)
 Se trata de desarrollar un CMS (Content Management System) que permitirá crear sitios webs. Lo más parecido al plugin Elementor de Wordpress, el cual permite realizar paginas web en tiempo real. 
 
@@ -55,7 +55,7 @@ Visitante: El visitante solo puede ver el contenido de los sitios webs, las pagi
 
 ## 5. Descripción del funcionamiento del sistema y especificaciones técnicas de la aplicación<a name="idDescripcion"></a>
 
-hdhjdjiwijanhshjhshhshhssjkjsjjjsjjsjjsjjsjjsjjsnnsnjsjs
+
 
 ## 6. Interfaces<a name="idInterfaces"></a>
 
