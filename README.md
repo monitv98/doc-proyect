@@ -47,7 +47,7 @@ Aqui se mostrara como esta organizada la base de datos del proyecto.
 
 En esta aplicación hay dos tipos de usuarios, los 2 tendrán que identificarse para poder acceder a la información sobre los sitios web.  Los roles que tendrá la aplicación son: Visitante y Editor.
 
-Editor: El editor podrá crear sitios webs, páginas y contenido.
+Editor: El editor podrá crear,editar y eliminar sitios webs, páginas y contenido.
  
 Visitante: El visitante solo puede ver el contenido de los sitios webs, las paginas de los sitios webs y el contenido de esas páginas webs.
 
