@@ -38,6 +38,11 @@ Se trata de desarrollar un CMS (Content Management System) que permitirá crear 
 
 ## 2. Diagramas<a name="idModelo"></a>
 
+### Modelo Relacional
+![Modelo relacional](img/modelo-relacion.PNG)
+
+### Diagrama E/R
+
 ## 3. Requisitos de usuario<a name="idReqUsu"></a>
 
 En esta aplicación hay dos tipos de usuarios, los 2 tendrán que identificarse para poder acceder a la información sobre los sitios web.  Los roles que tendrá la aplicación son: Visitante y Editor.
@@ -47,7 +52,6 @@ Editor: El editor podrá crear sitios webs, páginas y contenido.
 Visitante: El visitante solo puede ver el contenido de los sitios webs, las paginas de los sitios webs y el contenido de esas páginas webs.
 
  Una funcionalidad para tener en cuenta es que el editor puede ver toda la actividad de un visitante.
-
 ## 4. Casos de Uso<a name="idCasosDeUso"></a>
 
 ![Casos de uso](img/caso-uso.png)
@@ -62,6 +66,7 @@ Visitante: El visitante solo puede ver el contenido de los sitios webs, las pagi
 ### 6.1. Diseño Inicial:<a name="idDiseño"></a>
 
 ### 6.2. Usabilidad:<a name="idUsabilidad"></a>
+
 
 ## 7. Manuales<a name="idManuales"></a>
 
