@@ -32,9 +32,8 @@
 
 ## 1. Introducción<a name="idIntroduccion"></a>
 
-La idea surge de la necesidad de que en la empresa que se me ha propuesto las áreas de maquetación y gestión necesitaban una herramienta para poder realizar páginas web rápidas y sencillas en las que los distintos profesionales de estas áreas. Por ellos se me a propuesto realizar un CMS(Content Management System)
-La empresa para la que se está desarrollando este proyecto es MITCA studio.
-
+La idea surge de la necesidad de que en la empresa que se me ha propuesto, en las áreas de maquetación y gestión necesitaban una herramienta para poder realizar páginas web rápidas.
+Por ello se me ha propuesto realizar un CMS(Content Management System)
 Se trata de desarrollar un CMS (Content Management System) que permitirá crear sitios webs. Lo más parecido al plugin Elementor de Wordpress, el cual permite realizar paginas web en tiempo real. 
 
 ## 2. Diagramas<a name="idModelo"></a>
