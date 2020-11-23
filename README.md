@@ -54,7 +54,7 @@ Visitante: El visitante solo puede ver el contenido de los sitios webs, las pagi
  Una funcionalidad para tener en cuenta es que el editor puede ver toda la actividad de un visitante.
 ## 4. Casos de Uso<a name="idCasosDeUso"></a>
 
-![Casos de uso](img/caso-uso.png)
+![Casos de uso]()
 
 
 ## 5. Descripción del funcionamiento del sistema y especificaciones técnicas de la aplicación<a name="idDescripcion"></a>
