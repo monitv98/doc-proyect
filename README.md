@@ -65,7 +65,7 @@ Visitante: El visitante solo puede ver el contenido de los sitios webs, las pagi
 
 ### 6.1. Diseño Inicial:<a name="idDiseño"></a>
 
-![Paleta](img/caso-uso.png)
+![Paleta](img/paleta.png)
 
 ### 6.2. Usabilidad:<a name="idUsabilidad"></a>
 
