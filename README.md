@@ -72,7 +72,20 @@ elegido esta paleta de colores por que son colores que utiliza el logo de la emp
   ![login](prototipos/Login.png)
   
   La interfaz de registro
-  ![login](prototipos/Registrar.png)
+  ![Registro](prototipos/Registrar.png)
+
+  La interfaz principal donde veremos los sitios web creados
+  ![Principal](prototipos/Principal.png)
+
+  La interfaz de paginas de los sitios web
+  ![Paginas](prototipos/Paginas.png)
+
+  La interfaz del contenido multimedia
+  ![Contenido](prototipos/contenido.png)
+
+  La interfaz donde ver los usuarios registrado
+  ![Usuarios](prototipos/Usuarios.png)
+
 ### 6.2. Usabilidad:<a name="idUsabilidad"></a>
 
 
