@@ -64,9 +64,15 @@ Visitante: El visitante solo puede ver el contenido de los sitios webs, las pagi
 ## 6. Interfaces<a name="idInterfaces"></a>
 
 ### 6.1. Diseño Inicial:<a name="idDiseño"></a>
-
+La paleta de colores por la que optado para la realización del proyecto ha sido esta:
 ![Paleta](img/paleta.png)
-
+elegido esta paleta de colores por que son colores que utiliza el logo de la empresa.
+#### Prototipos
+  Nada más iniciar nuestra aplicación nos encontraremos con la interfaz de inicio de sesión
+  ![login](prototipos/Login.png)
+  
+  La interfaz de registro
+  ![login](prototipos/Registrar.png)
 ### 6.2. Usabilidad:<a name="idUsabilidad"></a>
 
 
