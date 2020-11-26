@@ -77,7 +77,7 @@ elegido esta paleta de colores por que son colores que utiliza el logo de la emp
   La interfaz principal donde veremos los sitios web creados
   ![Principal](prototipos/Principal.png)
 
-  La interfaz de paginas de los sitios web
+  La interfaz de las paginas de los sitios web
   ![Paginas](prototipos/Paginas.png)
 
   La interfaz del contenido multimedia
@@ -87,8 +87,14 @@ elegido esta paleta de colores por que son colores que utiliza el logo de la emp
   ![Usuarios](prototipos/Usuarios.png)
 
 ### 6.2. Usabilidad:<a name="idUsabilidad"></a>
+La aplicación cumple con varias de las características más importantes de usabilidad. Es una aplicación útil ya que abarca todos los aspectos requeridos por la empresa, permite a los usuarios de Mitca visualizar
+ver los sitios creados los editores, los cuales pueden editar, crear y eliminar sitios web.
 
+La interfaz goza de elegancia con una paleta de colores relacionada con el logo de la empres, los colores utilizados son los mostrados anterior. Se ha intentado hacer una interaz lo más fácil de aprender posible utilizando botones y textos bastante explicativos, cuenta con una barra de ubicacion que esta en la parte superior de cada pagina en la cual el usuarios sabra en el sitio donde esta posicionado.
 
+![posición](img/posicion.PNG)
+
+La aplicación ofrecerá al editor un gran beneficio en términos de tiempo y esfuerzo dado que no tendrá que el editor no tendra que tocar codigo para poder hacer sitios web..
 ## 7. Manuales<a name="idManuales"></a>
 
 ## 8. Pila Tecnológica<a name="idPilaTecnologica"></a>
